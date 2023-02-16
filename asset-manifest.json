@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plan_of_example_redux/static/css/main.aaaf48ca.css",
+    "main.js": "/plan_of_example_redux/static/js/main.3c7f2689.js",
+    "index.html": "/plan_of_example_redux/index.html",
+    "main.aaaf48ca.css.map": "/plan_of_example_redux/static/css/main.aaaf48ca.css.map",
+    "main.3c7f2689.js.map": "/plan_of_example_redux/static/js/main.3c7f2689.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaaf48ca.css",
+    "static/js/main.3c7f2689.js"
+  ]
+}
